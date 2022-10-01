@@ -15,4 +15,3 @@ def caesar_cipher(text, step):
         encrypt += new_char
     
     return encrypt
-
