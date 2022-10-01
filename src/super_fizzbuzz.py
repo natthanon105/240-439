@@ -79,6 +79,3 @@ def super_fizzbuzz(num: int) -> str:
         fizzbuzz = condition.call(num)
         if not fizzbuzz is None:
             return fizzbuzz
-
-
-# print(super_fizzbuzz(15))
