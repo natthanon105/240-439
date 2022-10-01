@@ -9,4 +9,3 @@ def alternating_characters(text: str) -> int:
         else:
             index += 1
     return remove_counter
-
