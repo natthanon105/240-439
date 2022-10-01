@@ -11,4 +11,3 @@ def cat_and_mouse(x: int, y: int, z: int) -> str:
     elif distance_x_to_z < distance_y_to_z:
         return 'Cat A'
     return 'Mouse C'
-
